@@ -99,12 +99,12 @@ Everything is stored locally in a SQLite database on your own computer. Nothing 
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="49%" />
-  <img src="docs/screenshots/invoices.png" alt="Invoices" width="49%" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/payments.png" alt="Payments" width="49%" />
-  <img src="docs/screenshots/reports.png" alt="Reports" width="49%" />
+  <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="100%" />
+  <img src="docs/screenshots/invoices.png" alt="Invoices" width="100%" />
+  <img src="docs/screenshots/payments.png" alt="Payments" width="100%" />
+  <img src="docs/screenshots/reports.png" alt="Reports" width="100%" />
+  <img src="docs/screenshots/products.png" alt="Products" width="100%" />
+  
 </p>
 
 ---
